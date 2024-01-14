@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 
-- 🔭 I’m currently working on **Miuul Machine Learning Bootcamp**
-
-- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **mstffclkk@gmail.com**
 
