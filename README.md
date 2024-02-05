@@ -16,7 +16,7 @@
 
 
 - 💻 I'm trying to improve myself in Python, Data Analytics, Data Science, Computer Vision,Machine Learning, Deep Learning.  
-- 📫 How to contact me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mstffclkk@gmail.com)
+- 📫 How to contact me: mstffclkk@gmail.com
 
 
 ### 🖥 Skills
